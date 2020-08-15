@@ -2,10 +2,7 @@
 
 ## Session 4
 
-
-EVA5 5 Assignment 4:
-
-
+EVA 5 Assignment 4:
 
 ### Summary:
 A network was modelled and trained and an accuracy of 99.49% was achieved in 20 epochs. The network was designed with the constranints mentioned below:
