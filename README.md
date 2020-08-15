@@ -16,6 +16,8 @@ No fully connected layer
 #### Result:
 
 99.49% validation accuracy
+
 Paramteres : 19128
+
 Epochs : 20
 
